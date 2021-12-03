@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h2{
+    text-align: center; 
+    text-decoration: dashed; 
+    color: whitesmoke;
+    text-decoration-style: solid;
+}
+#divHora{
+    background-color: tomato; 
+    text-align: center; 
+    color: aliceblue; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-weight: bold; 
+    font-size: 20vmin
+}
+#divMinuto{
+    background-color: burlywood; 
+    text-align: center; 
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold; font-size: 20vmin
+}
+#divSegundo{
+    background-color: blue; 
+    text-align: center; 
+    color: aliceblue; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-weight: bold; 
+    font-size: 20vmin
+}
+#footer{
+    background-color: dimgrey;
+    color:aliceblue
+}
+
+#header{
+    background-color: darkslategrey;
+}
